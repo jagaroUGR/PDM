@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="texto_fecha">Fecha</string>
+    <string name="texto_titulo">Título</string>
+    <string name="texto_noticia">Texto del detalle de la noticia</string>
+
+</resources>
